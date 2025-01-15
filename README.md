@@ -1,6 +1,8 @@
 # Prompt Optimizer
 
 Bu proje, kullanıcılardan gelen ham promptları optimize eden, LLM çıktılarını analiz eden ve token/maliyet metriklerini hesaplayan bir sistemdir.
+![PHOTO-2025-01-08-02-03-45 2](https://github.com/user-attachments/assets/8c53a28c-ff55-45a6-8e7b-ae84665684ff)
+
 
 ## Özellikler
 
@@ -11,6 +13,10 @@ Bu proje, kullanıcılardan gelen ham promptları optimize eden, LLM çıktılar
 - LIME analizi ile token önem skorları
 - MongoDB ile veri saklama
 - Vue.js tabanlı modern arayüz
+  
+![PHOTO-2025-01-08-02-02-30](https://github.com/user-attachments/assets/1298d791-0ab1-44a9-842f-05246c20cab6)
+
+![PHOTO-2025-01-08-02-03-45](https://github.com/user-attachments/assets/66dd33d1-a1b7-49eb-a3a5-7b92058364d5)
 
 ## Kurulum
 
