@@ -1,0 +1,158 @@
+{"timestamp": "2025-01-07T18:30:33.648762", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 36}
+{"timestamp": "2025-01-07T18:36:03.328315", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 36}
+{"timestamp": "2025-01-07T18:36:49.213813", "level": "ERROR", "message": "Prompt olu\u015fturma hatas\u0131: Model \u00e7a\u011fr\u0131s\u0131 ba\u015far\u0131s\u0131z: object ChatCompletion can't be used in 'await' expression", "module": "prompt_service", "function": "create_prompt", "line": 46}
+{"timestamp": "2025-01-07T18:36:49.213915", "level": "ERROR", "message": "Prompt olu\u015fturma hatas\u0131: Model \u00e7a\u011fr\u0131s\u0131 ba\u015far\u0131s\u0131z: object ChatCompletion can't be used in 'await' expression", "module": "prompt_routes", "function": "create_prompt", "line": 23}
+{"timestamp": "2025-01-07T18:39:57.210489", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:44:09.506590", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:44:32.529953", "level": "ERROR", "message": "Prompt olu\u015fturma hatas\u0131: Model \u00e7a\u011fr\u0131s\u0131 ba\u015far\u0131s\u0131z: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}", "module": "prompt_service", "function": "create_prompt", "line": 46}
+{"timestamp": "2025-01-07T18:44:32.530115", "level": "ERROR", "message": "Prompt olu\u015fturma hatas\u0131: Model \u00e7a\u011fr\u0131s\u0131 ba\u015far\u0131s\u0131z: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}", "module": "prompt_routes", "function": "create_prompt", "line": 29}
+{"timestamp": "2025-01-07T18:45:28.262632", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:45:39.674371", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 37}
+{"timestamp": "2025-01-07T18:45:52.112914", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:47:06.504405", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:47:16.856655", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T18:47:29.142736", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:51:21.369781", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:51:33.769838", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T18:51:39.709835", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T18:51:51.900708", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:52:39.467859", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:52:51.435432", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T18:52:56.710345", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:53:24.315866", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:53:37.585901", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T18:54:47.621773", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:55:35.084858", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:55:50.622843", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:55:53.060872", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:58:48.355825", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:58:49.039365", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:58:54.195209", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:58:54.784502", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:59:00.039140", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:59:00.634866", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:59:03.167642", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:59:03.796597", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:59:20.215692", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:59:20.874455", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T18:59:21.479797", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T18:59:22.059696", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:01:41.340850", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:02:16.482927", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T19:02:16.538449", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:02:32.967515", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:02:35.197724", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 75}
+{"timestamp": "2025-01-07T19:03:11.660887", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:03:12.369769", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:03:21.260476", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:03:21.848066", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:03:31.039401", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:04:03.651962", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 38}
+{"timestamp": "2025-01-07T19:04:29.268144", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 76}
+{"timestamp": "2025-01-07T19:04:52.364537", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:04:53.308352", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:04:57.451588", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:04:58.036377", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:05:03.614644", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:05:10.741544", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 76}
+{"timestamp": "2025-01-07T19:10:11.454818", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:10:17.278260", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:10:46.345014", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:10:47.837998", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:10:49.357658", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:10:50.702244", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:11:00.733810", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:11:06.549043", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:11:20.356320", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:11:21.594212", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:11:22.302504", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:11:23.533684", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:11:29.639185", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:11:37.318998", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:12:06.059718", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:12:07.315676", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:12:21.101312", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T19:12:22.388287", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:12:25.636919", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:12:31.387206", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:25:39.864783", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:26:44.891900", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: Prompt bulunamad\u0131: java ile test ara\u00e7lar\u0131 a\u00e7\u0131klar m\u0131s\u0131n", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T19:28:27.291319", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T19:28:28.051225", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:40:12.462394", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T19:40:13.262941", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T19:54:13.985380", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:59:40.002772", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T19:59:59.980192", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T19:59:59.994942", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: Prompt bulunamad\u0131: undefined", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T20:01:33.710554", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:01:34.403990", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:04:33.983346", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T20:04:49.697990", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:04:50.782487", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:06:44.380367", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:06:45.271754", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:09:00.450840", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:09:01.382744", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:16:03.896959", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T20:16:05.978319", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T20:16:12.242040", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T20:16:13.866518", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T20:17:36.332536", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T20:17:38.002461", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T20:18:08.216519", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:18:09.238211", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:21:37.148886", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:21:38.189302", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T20:23:33.817451", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T20:23:34.483754", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:11:12.580047", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T22:12:20.649873", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:12:21.351412", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:18:07.700544", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T22:18:11.168917", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T22:18:12.889687", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T22:18:14.739929", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T22:20:52.478544", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:20:54.623504", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: LIME analizi s\u0131ras\u0131nda hata: maximum recursion depth exceeded", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T22:20:54.623637", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: LIME analizi s\u0131ras\u0131nda hata: maximum recursion depth exceeded", "module": "prompt_routes", "function": "optimize_prompt", "line": 94}
+{"timestamp": "2025-01-07T22:21:49.847604", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T22:21:52.196773", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T22:21:55.129225", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T22:21:56.908654", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 48}
+{"timestamp": "2025-01-07T22:22:18.170639", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 52}
+{"timestamp": "2025-01-07T22:22:20.573032", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:22:21.787230", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 53}
+{"timestamp": "2025-01-07T22:22:23.647964", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:22:32.606063", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:22:43.654737", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: Prompt bulunamad\u0131: [object Object]", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T22:24:01.020792", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: Prompt bulunamad\u0131: [object Object]", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T22:24:12.623279", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:24:19.035076", "level": "ERROR", "message": "Prompt optimizasyon hatas\u0131: Prompt bulunamad\u0131: [object Object]", "module": "prompt_service", "function": "optimize_prompt", "line": 104}
+{"timestamp": "2025-01-07T22:27:13.959108", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:27:30.497187", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:27:31.902059", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:29:12.241870", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:29:13.455276", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:33:28.527114", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-07T22:33:38.922747", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:33:40.362514", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:35:43.939448", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:35:45.131379", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:48:16.372987", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:48:17.443933", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:51:45.569229", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:51:46.643507", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:53:47.200116", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:53:48.160131", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T22:58:30.763490", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T22:58:31.838242", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-07T23:01:17.776766", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-07T23:01:19.332491", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-08T17:05:12.392866", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-08T17:05:16.148582", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-08T17:05:17.241924", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}
+{"timestamp": "2025-01-08T17:05:44.836469", "level": "INFO", "message": "API kapat\u0131l\u0131yor...", "module": "main", "function": "shutdown_event", "line": 53}
+{"timestamp": "2025-01-08T17:05:52.444744", "level": "INFO", "message": "API ba\u015flat\u0131l\u0131yor...", "module": "main", "function": "startup_event", "line": 49}
+{"timestamp": "2025-01-08T17:06:22.973885", "level": "INFO", "message": "Yeni prompt olu\u015fturuldu", "module": "prompt_service", "function": "create_prompt", "line": 40}
+{"timestamp": "2025-01-08T17:06:24.036997", "level": "INFO", "message": "Prompt optimize edildi", "module": "prompt_service", "function": "optimize_prompt", "line": 85}

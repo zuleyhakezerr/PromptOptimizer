@@ -1,0 +1,274 @@
+# Prompt Optimizer Proje Kuralları
+
+# Versiyon Kontrolü
+version_control:
+  - her_değişiklik_için_versiyon_artır: true
+  - versiyon_format: "v{major}.{minor}.{patch}"
+  - commit_mesaj_format: "[v{version}] {type}: {description}"
+  - commit_tipleri:
+    - feature: "Yeni özellik ekleme"
+    - fix: "Hata düzeltme"
+    - refactor: "Kod iyileştirme"
+    - docs: "Dokümantasyon güncelleme"
+    - test: "Test ekleme/güncelleme"
+    - perf: "Performans iyileştirme"
+    - security: "Güvenlik güncellemesi"
+
+# Dizin Yapısı
+directory_structure:
+  src/:
+    api/:
+      - main.py
+      - routes/
+        - prompt_routes.py
+        - explanation_routes.py
+        - template_routes.py
+      - middleware/
+        - auth.py
+        - rate_limit.py
+        - error_handler.py
+      - dependencies/
+      - templates/
+        - index.html
+        - explanation.html
+        - comparison.html
+      - static/
+        - css/
+          - styles.css
+          - visualization.css
+        - js/
+          - app.js
+          - visualization.js
+          - lime.js
+          - metrics.js
+        - img/
+    models/:
+      - llm_client.py
+      - prompt_optimizer.py
+      - token_counter.py
+      - user.py
+      - template.py
+      - explainer.py
+      - lime_analyzer.py
+      - token_importance.py
+    database/:
+      - mongodb.py
+      - redis.py
+      - schemas/
+        - prompt.py
+        - user.py
+        - template.py
+        - explanation.py
+    services/:
+      - prompt_service.py
+      - optimization_service.py
+      - metrics_service.py
+      - user_service.py
+      - template_service.py
+      - batch_service.py
+      - explanation_service.py
+      - comparison_service.py
+      - visualization_service.py
+    utils/:
+      - logger.py
+      - validators.py
+      - constants.py
+      - security.py
+      - metrics.py
+      - visualization.py
+      - text_processing.py
+    config/:
+      - settings.py
+      - prometheus.py
+      - lime_config.py
+      - visualization_config.py
+  tests/:
+    - unit/
+      - test_lime_analyzer.py
+      - test_token_importance.py
+    - integration/
+      - test_explanation_service.py
+    - e2e/
+    - load/
+  docs/:
+    - api/
+    - deployment/
+    - development/
+    - architecture/
+    - explanations/
+      - lime_integration.md
+      - token_analysis.md
+      - visualization_guide.md
+
+# Web Arayüzü
+web_interface:
+  - framework: "Vue.js"
+  - components:
+    - PromptEditor
+    - OptimizationVisualizer
+    - TokenAnalyzer
+    - MetricsDisplay
+    - ComparisonView
+  - styles:
+    - framework: "Tailwind CSS"
+    - responsive: true
+    - dark_mode: true
+  - interactivity:
+    - real_time_updates: true
+    - websocket_support: true
+    - drag_and_drop: true
+  - accessibility:
+    - wcag_2_1: true
+    - keyboard_navigation: true
+    - screen_reader: true
+
+# Görselleştirme
+visualization:
+  - libraries:
+    - d3.js
+    - chart.js
+    - plotly.js
+  - components:
+    - token_heatmap:
+      - interactive: true
+      - tooltip: true
+      - zoom: true
+    - optimization_progress:
+      - epoch_display: true
+      - metrics_chart: true
+      - confidence_score: true
+    - comparison_view:
+      - side_by_side: true
+      - diff_highlight: true
+      - metrics_comparison: true
+  - export_formats:
+    - png
+    - svg
+    - pdf
+    - html
+
+# Kod Stili
+code_style:
+  - black_line_length: 88
+  - isort_profile: black
+  - docstring_style: google
+  - type_hints: required
+  - complexity_threshold: 10
+  - max_line_length: 88
+  - max_function_length: 50
+
+# Test Kuralları
+testing:
+  - minimum_coverage: 85%
+  - test_naming: "test_{module}_{function}_{scenario}"
+  - required_test_types:
+    - unit_tests
+    - integration_tests
+    - e2e_tests
+    - load_tests
+    - security_tests
+
+# Güvenlik
+security:
+  - env_variables: required
+  - api_keys: encrypted
+  - sensitive_data: encrypted
+  - mongodb_auth: required
+  - jwt_auth: required
+  - rate_limiting: required
+  - input_validation: required
+  - xss_protection: required
+  - csrf_protection: required
+
+# Dağıtım
+deployment:
+  - docker: required
+  - kubernetes: optional
+  - ci_cd: github_actions
+  - environments:
+    - development
+    - staging
+    - production
+  - monitoring:
+    - prometheus
+    - grafana
+    - alertmanager
+  - logging:
+    - elasticsearch
+    - kibana
+    - fluentd
+
+# Dokümantasyon
+documentation:
+  - api_docs: swagger
+  - code_docs: sphinx
+  - readme: required
+  - changelog: required
+  - architecture: required
+  - deployment_guide: required
+  - contributing_guide: required
+  - visualization_docs:
+    - token_analysis
+    - optimization_progress
+    - comparison_metrics
+    - export_guide
+
+# Performans
+performance:
+  - max_response_time: 2s
+  - max_memory_usage: 512MB
+  - concurrent_requests: 100
+  - rate_limiting: true
+  - caching:
+    - redis
+    - memory
+  - database_indexes: required
+  - query_optimization: required
+
+# Monitoring
+monitoring:
+  - logs: structured_json
+  - metrics:
+    - response_time
+    - token_usage
+    - cost
+    - error_rate
+    - concurrent_users
+    - cpu_usage
+    - memory_usage
+    - database_connections
+    - visualization_metrics:
+      - render_time
+      - interaction_latency
+      - memory_usage
+      - fps
+  - alerts:
+    - error_threshold: 5%
+    - response_time_threshold: 2s
+    - resource_usage_threshold: 80%
+  - dashboards:
+    - system_metrics
+    - business_metrics
+    - cost_analysis
+    - user_activity
+    - visualization_insights
+
+# Batch İşlemler
+batch_processing:
+  - max_batch_size: 1000
+  - retry_strategy: exponential_backoff
+  - parallel_processing: true
+  - error_handling: required
+  - progress_tracking: required
+
+# WebSocket
+websocket:
+  - max_connections: 1000
+  - heartbeat_interval: 30s
+  - reconnect_strategy: required
+  - message_queue: redis
+  - real_time_updates:
+    - optimization_progress
+    - token_analysis
+    - metrics_update
+    - visualization_state
